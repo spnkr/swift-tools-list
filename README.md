@@ -2,6 +2,7 @@ Useful SwiftUI and Swift libraries
 
 ## Type 1
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
+    - [Who said we cannot unit test SwiftUI views?](https://nalexn.github.io/swiftui-unit-testing/)
 - [HotSwiftUI](https://github.com/johnno1962/HotSwiftUI) - Utilities for Hot Reloading SwiftUI apps.
 
 ## Type 2
