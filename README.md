@@ -11,3 +11,6 @@ Useful SwiftUI and Swift libraries
 
 ## Type 3
 - [awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - 🚀 Awesome SwiftUI Libraries
+
+## Type 4
+- [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
