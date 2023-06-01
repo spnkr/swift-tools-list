@@ -1,16 +1,17 @@
 Useful SwiftUI and Swift libraries
 
-## Type 1
+## Debugging, developer tools
+- [HotSwiftUI](https://github.com/johnno1962/HotSwiftUI) - Utilities for Hot Reloading SwiftUI apps.
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
     - [Who said we cannot unit test SwiftUI views?](https://nalexn.github.io/swiftui-unit-testing/)
-- [HotSwiftUI](https://github.com/johnno1962/HotSwiftUI) - Utilities for Hot Reloading SwiftUI apps.
 
-## Type 2
+## SwiftUI navigation and architecture
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path-based routing in SwiftUI
 
+## General Swift
+- [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
+- [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator
 
-## Type 3
+## Lists 'o libraries
 - [awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - 🚀 Awesome SwiftUI Libraries
 
-## Type 4
-- [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
