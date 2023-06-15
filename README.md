@@ -4,6 +4,7 @@ Useful SwiftUI and Swift libraries
 - [HotSwiftUI](https://github.com/johnno1962/HotSwiftUI) - Utilities for Hot Reloading SwiftUI apps.
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
     - [Who said we cannot unit test SwiftUI views?](https://nalexn.github.io/swiftui-unit-testing/)
+- [ColoredConsole](https://github.com/jjrscott/ColoredConsole/tree/master) - Reenabling colors in Xcode's console
 
 ## SwiftUI navigation and architecture
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path-based routing in SwiftUI
