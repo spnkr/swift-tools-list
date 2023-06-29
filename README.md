@@ -12,6 +12,7 @@ Useful SwiftUI and Swift libraries
 ## General Swift
 - [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 - [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator
+- [Swift Atomic Operators](https://gist.github.com/spnkr/93514f91bdbf8ac89c961cf75d1f8fba) - For Swift concurrency
 
 ## Lists 'o libraries
 - [awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - 🚀 Awesome SwiftUI Libraries
