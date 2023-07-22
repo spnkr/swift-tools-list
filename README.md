@@ -19,3 +19,11 @@ Useful SwiftUI and Swift libraries
 
 ## UIKit
 - [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
+
+---
+
+## Libraries that might make the list
+
+These are new (to me) and I haven't decided if they are stellar yet
+
+- [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing NSAttributedString with SwiftUI-style syntax
